@@ -1,0 +1,10 @@
+html, body, * {
+	direction: rtl;
+}
+body {
+	background: #fff;
+}
+
+p {
+	padding: 10px 10px 0 10px;
+}
